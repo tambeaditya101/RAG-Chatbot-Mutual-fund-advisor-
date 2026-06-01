@@ -1,0 +1,62 @@
+=== Fund Information ===
+Fund Name: HDFC Multi Cap Fund
+Scheme Name: HDFC Multi Cap Fund Direct Growth
+Fund House: HDFC Mutual Fund
+AMC: HDFC
+Category: Equity
+Sub-Category: Multi Cap
+Plan Type: Direct
+Scheme Type: Growth
+Launch Date: 10-Dec-2021
+
+=== Key Metrics ===
+Expense Ratio: 0.82%
+Exit Load: Exit load of 1% if redeemed within 1 year.
+NAV: 19.071 (as of 29-May-2026)
+AUM: ₹19557.5716 crores
+Benchmark: Nifty 500 Multicap 50:25:25 TRI
+Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
+Riskometer: Very High
+Groww Rating: 3/5
+Portfolio Turnover: 38%
+Stamp Duty: 0.005% (from July 1st, 2020)
+
+=== Investment Details ===
+Minimum Investment (Lumpsum): ₹100
+Minimum SIP Amount: ₹100
+Maximum SIP Investment: ₹999999999
+Minimum Withdrawal: ₹100
+Minimum Additional Investment: ₹100
+No lock-in period
+SIP Allowed: Yes
+Lumpsum Allowed: Yes
+
+=== Fund Manager ===
+Fund Manager: Gopal Agrawal
+
+=== Scheme Objective ===
+The scheme seeks to generate long term capital appreciation by investing in equity and equity related securities of large cap, mid cap and small cap companies.
+
+=== Category Details ===
+Category Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+Tax Impact: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+=== Operational Details ===
+Registrar: Cams
+RTA Name: Cams
+
+Top Holdings:
+  - HDFC Bank Ltd. (Financial, Equity): 3.81%
+  - ICICI Bank Ltd. (Financial, Equity): 3.4%
+  - Reliance Industries Ltd. (Energy, Equity): 2.89%
+  - Axis Bank Ltd. (Financial, Equity): 2.52%
+  - Britannia Industries Ltd. (Consumer Staples, Equity): 2.37%
+  - Bharti Airtel Ltd. (Communication, Equity): 2.22%
+  - NTPC Ltd. (Energy, Equity): 1.86%
+  - Larsen & Toubro Ltd. (Construction, Equity): 1.72%
+  - Eternal Ltd. (Services, Equity): 1.57%
+  - ICICI Lombard General Insurance Company Ltd. (Insurance, Equity): 1.42%
+
+Fund Returns: 1Y: -1.47%, 3Y: 16.2%
+Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
+Rank Within Category: 1Y: 33%, 3Y: 14%

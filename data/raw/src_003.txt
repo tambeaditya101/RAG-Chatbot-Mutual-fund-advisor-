@@ -1,0 +1,63 @@
+=== Fund Information ===
+Fund Name: HDFC Small Cap Fund
+Scheme Name: HDFC Small Cap Fund Direct Growth
+Fund House: HDFC Mutual Fund
+AMC: HDFC
+Category: Equity
+Sub-Category: Small Cap
+Plan Type: Direct
+Scheme Type: Growth
+Launch Date: 01-Jan-2013
+
+=== Key Metrics ===
+Expense Ratio: 0.73%
+Exit Load: Exit load of 1% if redeemed within 1 year
+NAV: 151.914 (as of 29-May-2026)
+AUM: ₹38168.1786 crores
+Benchmark: BSE 250 SmallCap TRI
+Benchmark Name: BSE 250 SmallCap Total Return Index
+Riskometer: Moderately High Riskometer
+Groww Rating: 4/5
+Portfolio Turnover: 6%
+Stamp Duty: 0.005% (from July 1st, 2020)
+
+=== Investment Details ===
+Minimum Investment (Lumpsum): ₹100
+Minimum SIP Amount: ₹100
+Maximum SIP Investment: ₹999999999
+Minimum Withdrawal: ₹100
+Minimum Additional Investment: ₹100
+No lock-in period
+SIP Allowed: Yes
+Lumpsum Allowed: Yes
+
+=== Fund Manager ===
+Fund Manager: Chirag Setalvad
+
+=== Scheme Objective ===
+The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.
+
+=== Category Details ===
+Category Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+Tax Impact: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+=== Operational Details ===
+Registrar: CAMS
+RTA Name: Cams
+Custodian: Citibank NA
+
+Top Holdings:
+  - Aster DM Healthcare Ltd. (Healthcare, Equity): 4.42%
+  - Bank Of Baroda (Financial, Equity): 3.23%
+  - Firstsource Solutions Ltd. (Services, Equity): 3.17%
+  - Gabriel India Ltd. (Automobile, Equity): 2.63%
+  - eClerx Services Ltd. (Services, Equity): 2.35%
+  - Eris Lifesciences Ltd. (Healthcare, Equity): 2.34%
+  - Fortis Healthcare Ltd. (Healthcare, Equity): 2.28%
+  - Indian Bank (Financial, Equity): 2.16%
+  - The Great Eastern Shipping Company Ltd. (Energy, Equity): 2.16%
+  - Krishna Institute of Medical Sciences Ltd (Healthcare, Equity): 1.94%
+
+Fund Returns: 1Y: -0.9%, 3Y: 15.23%, 5Y: 17.97%, Since Inception: 16.3%
+Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
+Rank Within Category: 1Y: 42%, 3Y: 29%, 5Y: 15%

@@ -1,0 +1,62 @@
+=== Fund Information ===
+Fund Name: HDFC Mid Cap Fund
+Scheme Name: HDFC Mid Cap Fund Direct Growth
+Fund House: HDFC Mutual Fund
+AMC: HDFC
+Category: Equity
+Sub-Category: Mid Cap
+Plan Type: Direct
+Scheme Type: Growth
+Launch Date: 01-Jan-2013
+
+=== Key Metrics ===
+Expense Ratio: 0.73%
+Exit Load: Exit load of 1% if redeemed within 1 year.
+NAV: 221.322 (as of 29-May-2026)
+AUM: ₹94744.7175 crores
+Benchmark: NIFTY Midcap 150 TRI
+Benchmark Name: NIFTY Midcap 150 Total Return Index
+Riskometer: Moderately High
+Groww Rating: 5/5
+Portfolio Turnover: 13%
+Stamp Duty: 0.005% (from July 1st, 2020)
+
+=== Investment Details ===
+Minimum Investment (Lumpsum): ₹100
+Minimum SIP Amount: ₹100
+Maximum SIP Investment: ₹999999999
+Minimum Withdrawal: ₹100
+Minimum Additional Investment: ₹100
+No lock-in period
+SIP Allowed: Yes
+Lumpsum Allowed: Yes
+
+=== Fund Manager ===
+Fund Manager: Chirag Setalvad
+
+=== Scheme Objective ===
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.
+
+=== Category Details ===
+Category Description: Contra funds follow Contrarian strategy which means investing in stocks in contrast to the prevailing sentiment. Minimum investment in equity is 65%.
+Tax Impact: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+=== Operational Details ===
+Registrar: CAMS
+RTA Name: Cams
+
+Top Holdings:
+  - Max Financial Services Ltd. (Financial, Equity): 4.37%
+  - AU Small Finance Bank Ltd. (Financial, Equity): 4.24%
+  - The Federal Bank Ltd. (Financial, Equity): 3.87%
+  - Glenmark Pharmaceuticals Ltd. (Healthcare, Equity): 3.41%
+  - Indian Bank (Financial, Equity): 3.31%
+  - Balkrishna Industries Ltd. (Automobile, Equity): 3.25%
+  - Fortis Healthcare Ltd. (Healthcare, Equity): 3.16%
+  - Vishal Mega Mart Ltd. (Services, Equity): 2.92%
+  - Ipca Laboratories Ltd. (Healthcare, Equity): 2.92%
+  - Cummins India Ltd. (Capital Goods, Equity): 2.5%
+
+Fund Returns: 1Y: 6.97%, 3Y: 22.72%, 5Y: 21.01%, Since Inception: 19.3%
+Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
+Rank Within Category: 1Y: 30%, 3Y: 11%, 5Y: 5%

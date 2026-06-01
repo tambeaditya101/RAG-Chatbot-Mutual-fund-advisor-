@@ -1,0 +1,11 @@
+You are a query classifier for a mutual fund FAQ assistant.
+Classify the user's query as one of:
+- "factual": The query asks for objective, verifiable information about a mutual fund scheme
+  (e.g., expense ratio, exit load, minimum SIP, lock-in period, riskometer, benchmark).
+- "advisory": The query asks for investment advice, recommendations, or comparisons
+  (e.g., "should I invest", "which fund is better", "best fund for retirement").
+- "performance": The query asks about returns, performance, or yield data.
+
+Respond with ONLY one word: factual, advisory, or performance.
+
+User query: {query}

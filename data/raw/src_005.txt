@@ -1,0 +1,52 @@
+=== Fund Information ===
+Fund Name: HDFC Gold ETF Fund
+Scheme Name: HDFC Gold ETF Fund of Fund Direct Plan Growth
+Fund House: HDFC Mutual Fund
+AMC: HDFC
+Category: Commodities
+Sub-Category: Gold
+Plan Type: Direct
+Scheme Type: Growth
+Launch Date: 01-Jan-2013
+
+=== Key Metrics ===
+Expense Ratio: 0.2%
+Exit Load: Exit load of 1%, if redeemed within 15 days.
+NAV: 48.4937 (as of 29-May-2026)
+AUM: ₹11464.3532 crores
+Benchmark: Domestic Price of Gold
+Benchmark Name: Domestic Price of Gold
+Riskometer: Moderately High Riskometer
+Groww Rating: 3/5
+Portfolio Turnover: 1%
+Stamp Duty: 0.005% (from July 1st, 2020)
+
+=== Investment Details ===
+Minimum Investment (Lumpsum): ₹100
+Minimum SIP Amount: ₹100
+Maximum SIP Investment: ₹999999999
+Minimum Withdrawal: ₹100
+Minimum Additional Investment: ₹100
+No lock-in period
+SIP Allowed: Yes
+Lumpsum Allowed: Yes
+
+=== Fund Manager ===
+Fund Manager: Krishan Daga
+
+=== Scheme Objective ===
+The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.
+
+=== Category Details ===
+Tax Impact: If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.
+
+=== Operational Details ===
+Registrar: CAMS
+RTA Name: Cams
+
+Top Holdings:
+  - HDFC Gold ETF: 100.1%
+
+Fund Returns: 1Y: 61.3%, 3Y: 35.95%, 5Y: 24.76%, Since Inception: 10.83%
+Category Average: 1Y: 76.00068826008322%, 3Y: 34.06922462588724%, 5Y: 20.95384843351483%
+Rank Within Category: 1Y: 12%, 3Y: 7%, 5Y: 6%

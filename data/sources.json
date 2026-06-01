@@ -1,0 +1,49 @@
+{
+  "sources": [
+    {
+      "id": "src_001",
+      "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Large Cap Fund",
+      "category": "large_cap",
+      "format": "html",
+      "title": "HDFC Large Cap Fund - Direct Growth"
+    },
+    {
+      "id": "src_002",
+      "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Mid Cap Fund",
+      "category": "mid_cap",
+      "format": "html",
+      "title": "HDFC Mid Cap Fund - Direct Growth"
+    },
+    {
+      "id": "src_003",
+      "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Small Cap Fund",
+      "category": "small_cap",
+      "format": "html",
+      "title": "HDFC Small Cap Fund - Direct Growth"
+    },
+    {
+      "id": "src_004",
+      "url": "https://groww.in/mutual-funds/hdfc-multi-cap-fund-direct-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Multi Cap Fund",
+      "category": "multi_cap",
+      "format": "html",
+      "title": "HDFC Multi Cap Fund - Direct Growth"
+    },
+    {
+      "id": "src_005",
+      "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "type": "factsheet",
+      "scheme": "HDFC Gold ETF FoF",
+      "category": "gold_etf_fof",
+      "format": "html",
+      "title": "HDFC Gold ETF Fund of Fund - Direct Plan Growth"
+    }
+  ]
+}
