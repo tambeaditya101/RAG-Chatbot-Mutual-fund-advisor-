@@ -10,9 +10,9 @@ Scheme Type: Growth
 Launch Date: 10-Dec-2021
 
 === Key Metrics ===
-Expense Ratio: 0.82%
+Expense Ratio: 0.83%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 18.87 (as of 01-Jun-2026)
+NAV: 18.904 (as of 02-Jun-2026)
 AUM: ₹19557.5716 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
@@ -46,17 +46,17 @@ Registrar: Cams
 RTA Name: Cams
 
 Top Holdings:
-  - HDFC Bank Ltd. (Financial, Equity): 3.81%
-  - ICICI Bank Ltd. (Financial, Equity): 3.4%
-  - Reliance Industries Ltd. (Energy, Equity): 2.89%
-  - Axis Bank Ltd. (Financial, Equity): 2.52%
-  - Britannia Industries Ltd. (Consumer Staples, Equity): 2.37%
-  - Bharti Airtel Ltd. (Communication, Equity): 2.22%
-  - NTPC Ltd. (Energy, Equity): 1.86%
-  - Larsen & Toubro Ltd. (Construction, Equity): 1.72%
-  - Eternal Ltd. (Services, Equity): 1.57%
-  - ICICI Lombard General Insurance Company Ltd. (Insurance, Equity): 1.42%
+  - HDFC Bank Ltd (Financial, Equity): 3.81%
+  - ICICI Bank Ltd (Financial, Equity): 3.4%
+  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.89%
+  - Axis Bank Ltd (Financial, Equity): 2.52%
+  - Repo (Unspecified, Repo): 2.47%
+  - Britannia Industries Ltd (Consumer Staples, Equity): 2.37%
+  - Bharti Airtel Ltd (Technology, Equity): 2.22%
+  - NTPC Ltd (Energy & Utilities, Equity): 1.86%
+  - Larsen & Toubro Ltd (Industrials, Equity): 1.72%
+  - Zomato Ltd (Technology, Equity): 1.57%
 
-Fund Returns: 1Y: -2.49%, 3Y: 15.71%
+Fund Returns: 1Y: -2.54%, 3Y: 15.63%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
 Rank Within Category: 1Y: 33%, 3Y: 14%
