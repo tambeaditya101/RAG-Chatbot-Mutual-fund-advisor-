@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.73%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 152.056 (as of 02-Jun-2026)
+NAV: 151.987 (as of 03-Jun-2026)
 AUM: ₹38168.1786 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - The Great Eastern Shipping Company Ltd (Energy & Utilities, Equity): 2.16%
   - Indian Bank (Financial, Equity): 2.16%
 
-Fund Returns: 1Y: -1.06%, 3Y: 14.96%, 5Y: 17.7%, Since Inception: 16.3%
+Fund Returns: 1Y: -1.51%, 3Y: 14.93%, 5Y: 17.51%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
-Rank Within Category: 1Y: 42%, 3Y: 29%, 5Y: 13%
+Rank Within Category: 1Y: 42%, 3Y: 29%, 5Y: 16%
