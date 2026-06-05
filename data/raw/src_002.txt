@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.73%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 219.077 (as of 03-Jun-2026)
+NAV: 219.942 (as of 04-Jun-2026)
 AUM: ₹94744.7175 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Ipca Laboratories Ltd. (Healthcare, Equity): 2.92%
   - Cummins India Ltd. (Capital Goods, Equity): 2.5%
 
-Fund Returns: 1Y: 5.57%, 3Y: 21.92%, 5Y: 20.45%, Since Inception: 19.3%
+Fund Returns: 1Y: 5.51%, 3Y: 22.05%, 5Y: 20.46%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
 Rank Within Category: 1Y: 21%, 3Y: 11%, 5Y: 5%

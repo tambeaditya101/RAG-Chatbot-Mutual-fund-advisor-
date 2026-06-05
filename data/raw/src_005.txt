@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
-NAV: 48.1706 (as of 03-Jun-2026)
+NAV: 48.4552 (as of 04-Jun-2026)
 AUM: ₹11464.3532 crores
 Benchmark: Domestic Price of Gold
 Benchmark Name: Domestic Price of Gold
@@ -49,6 +49,6 @@ Top Holdings:
   - Repo (Unspecified, Repo): 0.16%
   - Net Payables (Unspecified, Net Payables): -0.26%
 
-Fund Returns: 1Y: 57.54%, 3Y: 35.26%, 5Y: 24.6%, Since Inception: 10.83%
+Fund Returns: 1Y: 57.91%, 3Y: 35.49%, 5Y: 25.01%, Since Inception: 10.83%
 Category Average: 1Y: 76.00068826008322%, 3Y: 34.06922462588724%, 5Y: 20.95384843351483%
-Rank Within Category: 1Y: 2%, 3Y: 3%, 5Y: 2%
+Rank Within Category: 1Y: 8%, 3Y: 7%, 5Y: 6%
