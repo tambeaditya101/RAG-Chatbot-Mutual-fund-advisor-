@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 1.04%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1159.48 (as of 11-Jun-2026)
+NAV: 1186.883 (as of 12-Jun-2026)
 AUM: ₹37808.3057 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Infosys Ltd (Technology, Equity): 3.01%
   - Bajaj Auto Ltd (Consumer Discretionary, Equity): 2.95%
 
-Fund Returns: 1Y: -5.71%, 3Y: 10.91%, 5Y: 11.61%, Since Inception: 13.08%
+Fund Returns: 1Y: -2.47%, 3Y: 11.74%, 5Y: 12.12%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 62%, 3Y: 46%, 5Y: 21%
+Rank Within Category: 1Y: 56%, 3Y: 45%, 5Y: 20%
