@@ -45,10 +45,10 @@ Registrar: CAMS
 RTA Name: Cams
 
 Top Holdings:
-  - HDFC Gold ETF (Unspecified, Mutual Fund): 100.1%
-  - Repo (Unspecified, Repo): 0.16%
-  - Net Payables (Unspecified, Net Payables): -0.26%
+  - HDFC Gold ETF (Unspecified, Mutual Fund): 100%
+  - Repo (Unspecified, Repo): 0.14%
+  - Net Payables (Unspecified, Net Payables): -0.14%
 
 Fund Returns: 1Y: 49.4%, 3Y: 33.51%, 5Y: 23.35%, Since Inception: 10.83%
 Category Average: 1Y: 76.00068826008322%, 3Y: 34.06922462588724%, 5Y: 20.95384843351483%
-Rank Within Category: 1Y: 13%, 3Y: 8%, 5Y: 6%
+Rank Within Category: 1Y: 15%, 3Y: 9%, 5Y: 6%

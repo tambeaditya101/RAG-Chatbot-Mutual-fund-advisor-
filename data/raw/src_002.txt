@@ -46,16 +46,16 @@ Registrar: CAMS
 RTA Name: Cams
 
 Top Holdings:
-  - Repo (Unspecified, Repo): 6.61%
-  - Max Financial Services Ltd (Financial, Equity): 4.37%
-  - AU Small Finance Bank Ltd (Financial, Equity): 4.24%
-  - The Federal Bank Ltd (Financial, Equity): 3.87%
-  - Glenmark Pharmaceuticals Ltd (Healthcare, Equity): 3.41%
-  - Indian Bank (Financial, Equity): 3.31%
+  - Repo (Unspecified, Repo): 7.68%
+  - Max Financial Services Ltd (Financial, Equity): 4.49%
+  - AU Small Finance Bank Ltd (Financial, Equity): 4.01%
+  - The Federal Bank Ltd (Financial, Equity): 3.79%
   - Balkrishna Industries Ltd (Consumer Discretionary, Equity): 3.25%
-  - Fortis Healthcare Ltd (Healthcare, Equity): 3.16%
-  - Vishal Mega Mart Ltd. (Consumer Staples, Equity): 2.92%
-  - Ipca Laboratories Ltd (Healthcare, Equity): 2.92%
+  - Indian Bank (Financial, Equity): 3.15%
+  - Glenmark Pharmaceuticals Ltd (Healthcare, Equity): 3.13%
+  - Fortis Healthcare Ltd (Healthcare, Equity): 3.09%
+  - Vishal Mega Mart Ltd. (Consumer Staples, Equity): 2.83%
+  - Ipca Laboratories Ltd (Healthcare, Equity): 2.83%
 
 Fund Returns: 1Y: 4.94%, 3Y: 21.05%, 5Y: 19.9%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%

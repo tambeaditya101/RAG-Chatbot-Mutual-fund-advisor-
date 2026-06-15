@@ -47,16 +47,16 @@ RTA Name: Cams
 Custodian: Citibank NA
 
 Top Holdings:
-  - Repo (Unspecified, Repo): 9.74%
-  - Aster DM Healthcare Ltd (Healthcare, Equity): 4.42%
-  - Bank Of Baroda (Financial, Equity): 3.23%
-  - Firstsource Solutions Ltd (Industrials, Equity): 3.17%
-  - Gabriel India Ltd (Consumer Discretionary, Equity): 2.63%
-  - eClerx Services Ltd (Technology, Equity): 2.35%
-  - Eris Lifesciences Ltd (Healthcare, Equity): 2.34%
-  - Fortis Healthcare Ltd (Healthcare, Equity): 2.28%
-  - The Great Eastern Shipping Company Ltd (Energy & Utilities, Equity): 2.16%
-  - Indian Bank (Financial, Equity): 2.16%
+  - Repo (Unspecified, Repo): 10.28%
+  - Firstsource Solutions Ltd (Industrials, Equity): 3.92%
+  - Aster DM Healthcare Ltd (Healthcare, Equity): 3.8%
+  - Bank Of Baroda (Financial, Equity): 3.24%
+  - Gabriel India Ltd (Consumer Discretionary, Equity): 2.77%
+  - eClerx Services Ltd (Technology, Equity): 2.45%
+  - Eris Lifesciences Ltd (Healthcare, Equity): 2.37%
+  - Fortis Healthcare Ltd (Healthcare, Equity): 2.26%
+  - Krishna Institute Of Medical Sciences Ltd (Healthcare, Equity): 2.18%
+  - Indian Bank (Financial, Equity): 2.08%
 
 Fund Returns: 1Y: -1.74%, 3Y: 14.55%, 5Y: 16.96%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
