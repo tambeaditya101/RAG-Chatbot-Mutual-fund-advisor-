@@ -59,4 +59,4 @@ Top Holdings:
 
 Fund Returns: 1Y: 9.08%, 3Y: 21.14%, 5Y: 21.13%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
-Rank Within Category: 1Y: 27%, 3Y: 14%, 5Y: 5%
+Rank Within Category: 1Y: 34%, 3Y: 15%, 5Y: 5%
