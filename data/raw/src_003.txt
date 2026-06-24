@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.77%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 159.648 (as of 22-Jun-2026)
+NAV: 157.997 (as of 23-Jun-2026)
 AUM: ₹38809.4792 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Krishna Institute Of Medical Sciences Ltd (Healthcare, Equity): 2.18%
   - Indian Bank (Financial, Equity): 2.08%
 
-Fund Returns: 1Y: 4.23%, 3Y: 15.59%, 5Y: 17.77%, Since Inception: 16.3%
+Fund Returns: 1Y: 2.53%, 3Y: 15.53%, 5Y: 17.65%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
-Rank Within Category: 1Y: 42%, 3Y: 29%, 5Y: 17%
+Rank Within Category: 1Y: 41%, 3Y: 28%, 5Y: 17%
