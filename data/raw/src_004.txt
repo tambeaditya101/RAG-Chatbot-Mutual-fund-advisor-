@@ -12,7 +12,7 @@ Launch Date: 10-Dec-2021
 === Key Metrics ===
 Expense Ratio: 0.96%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 19.925 (as of 03-Jul-2026)
+NAV: 20.022 (as of 06-Jul-2026)
 AUM: ₹19580.6842 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Larsen & Toubro Ltd (Industrials, Equity): 1.74%
   - Zomato Ltd (Technology, Equity): 1.66%
 
-Fund Returns: 1Y: -1.1%, 3Y: 15.65%
+Fund Returns: 1Y: -0.83%, 3Y: 15.51%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
 Rank Within Category: 1Y: 33%, 3Y: 15%
