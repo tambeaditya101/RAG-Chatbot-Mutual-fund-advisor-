@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 230.395 (as of 06-Jul-2026)
+NAV: 231.094 (as of 07-Jul-2026)
 AUM: ₹97350.4842 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Vishal Mega Mart Ltd. (Consumer Staples, Equity): 2.83%
   - Ipca Laboratories Ltd (Healthcare, Equity): 2.83%
 
-Fund Returns: 1Y: 5.88%, 3Y: 20.64%, 5Y: 20.74%, Since Inception: 19.3%
+Fund Returns: 1Y: 6.29%, 3Y: 20.89%, 5Y: 20.68%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
-Rank Within Category: 1Y: 17%, 3Y: 12%, 5Y: 4%
+Rank Within Category: 1Y: 22%, 3Y: 13%, 5Y: 4%
