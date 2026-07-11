@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 1.04%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1227.566 (as of 09-Jul-2026)
+NAV: 1236.776 (as of 10-Jul-2026)
 AUM: ₹39023.6868 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -47,17 +47,17 @@ RTA Name: Cams
 Custodian: HDFC Bank
 
 Top Holdings:
-  - ICICI Bank Ltd (Financial, Equity): 9.18%
-  - HDFC Bank Ltd (Financial, Equity): 7.63%
-  - Bharti Airtel Ltd (Technology, Equity): 5.77%
-  - Kotak Mahindra Bank Ltd (Financial, Equity): 5.52%
-  - Reliance Industries Ltd (Energy & Utilities, Equity): 5.22%
-  - Titan Company Ltd (Consumer Discretionary, Equity): 4.44%
-  - Torrent Pharmaceuticals Ltd (Healthcare, Equity): 3.71%
-  - Axis Bank Ltd (Financial, Equity): 3.65%
-  - Bajaj Auto Ltd (Consumer Discretionary, Equity): 3.12%
-  - Bajaj Finserv Ltd (Financial, Equity): 3.1%
+  - ICICI Bank Ltd (Financial, Equity): 9.73%
+  - HDFC Bank Ltd (Financial, Equity): 7.92%
+  - Bharti Airtel Ltd (Technology, Equity): 5.66%
+  - Kotak Mahindra Bank Ltd (Financial, Equity): 5.46%
+  - Reliance Industries Ltd (Energy & Utilities, Equity): 4.96%
+  - Titan Company Ltd (Consumer Discretionary, Equity): 4.65%
+  - Torrent Pharmaceuticals Ltd (Healthcare, Equity): 3.77%
+  - Axis Bank Ltd (Financial, Equity): 3.69%
+  - Bajaj Finserv Ltd (Financial, Equity): 3%
+  - Lupin Ltd (Healthcare, Equity): 2.86%
 
-Fund Returns: 1Y: -1.44%, 3Y: 11.56%, 5Y: 13.31%, Since Inception: 13.08%
+Fund Returns: 1Y: -0.2%, 3Y: 11.86%, 5Y: 13.48%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 42%, 3Y: 39%, 5Y: 14%
+Rank Within Category: 1Y: 42%, 3Y: 38%, 5Y: 14%
