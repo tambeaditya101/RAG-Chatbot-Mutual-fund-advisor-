@@ -10,9 +10,9 @@ Scheme Type: Growth
 Launch Date: 01-Jan-2013
 
 === Key Metrics ===
-Expense Ratio: 1.02%
+Expense Ratio: 1.03%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1237.037 (as of 13-Jul-2026)
+NAV: 1228.902 (as of 14-Jul-2026)
 AUM: ₹39023.6868 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Bajaj Finserv Ltd (Financial, Equity): 3%
   - Lupin Ltd (Healthcare, Equity): 2.86%
 
-Fund Returns: 1Y: 0.41%, 3Y: 11.76%, 5Y: 13.27%, Since Inception: 13.08%
+Fund Returns: 1Y: -0.35%, 3Y: 11.28%, 5Y: 13.04%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 42%, 3Y: 40%, 5Y: 14%
+Rank Within Category: 1Y: 42%, 3Y: 37%, 5Y: 16%
