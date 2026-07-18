@@ -12,7 +12,7 @@ Launch Date: 10-Dec-2021
 === Key Metrics ===
 Expense Ratio: 0.94%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 19.835 (as of 16-Jul-2026)
+NAV: 19.864 (as of 17-Jul-2026)
 AUM: ₹20216.8801 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Zomato Ltd (Technology, Equity): 1.7%
   - State Bank of India (Financial, Equity): 1.68%
 
-Fund Returns: 1Y: -1.76%, 3Y: 14.81%
+Fund Returns: 1Y: -1.57%, 3Y: 14.71%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
-Rank Within Category: 1Y: 34%, 3Y: 16%
+Rank Within Category: 1Y: 34%, 3Y: 17%
