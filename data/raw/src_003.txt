@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.76%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 157.291 (as of 23-Jul-2026)
+NAV: 157.649 (as of 24-Jul-2026)
 AUM: ₹40416.8045 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - eClerx Services Ltd (Technology, Equity): 2.1%
   - Apar Industries Ltd (Diversified, Equity): 1.96%
 
-Fund Returns: 1Y: -3.52%, 3Y: 12.68%, 5Y: 15.46%, Since Inception: 16.3%
+Fund Returns: 1Y: -3.43%, 3Y: 12.68%, 5Y: 15.5%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
 Rank Within Category: 1Y: 43%, 3Y: 32%, 5Y: 17%
