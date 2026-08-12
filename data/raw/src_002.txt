@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 236.831 (as of 10-Aug-2026)
+NAV: 237.096 (as of 11-Aug-2026)
 AUM: ₹105142.6943 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Glenmark Pharmaceuticals Ltd (Healthcare, Equity): 2.93%
   - Vishal Mega Mart Ltd. (Consumer Staples, Equity): 2.64%
 
-Fund Returns: 1Y: 13.42%, 3Y: 20.32%, 5Y: 21.14%, Since Inception: 19.3%
+Fund Returns: 1Y: 13.01%, 3Y: 20.41%, 5Y: 21.22%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
-Rank Within Category: 1Y: 15%, 3Y: 13%, 5Y: 3%
+Rank Within Category: 1Y: 19%, 3Y: 13%, 5Y: 3%
