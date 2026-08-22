@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 1.03%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1244.631 (as of 20-Aug-2026)
+NAV: 1245.125 (as of 21-Aug-2026)
 AUM: ₹40197.8895 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Bajaj Finserv Ltd (Financial, Equity): 3%
   - Lupin Ltd (Healthcare, Equity): 2.86%
 
-Fund Returns: 1Y: 0.55%, 3Y: 11.4%, 5Y: 13.15%, Since Inception: 13.08%
+Fund Returns: 1Y: 0.59%, 3Y: 11.23%, 5Y: 13.15%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 50%, 3Y: 43%, 5Y: 16%
+Rank Within Category: 1Y: 48%, 3Y: 43%, 5Y: 17%
