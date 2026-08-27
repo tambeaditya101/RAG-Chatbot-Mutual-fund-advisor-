@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 160.558 (as of 25-Aug-2026)
+NAV: 160.946 (as of 26-Aug-2026)
 AUM: ₹41679.0037 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -47,17 +47,17 @@ RTA Name: Cams
 Custodian: Citibank NA
 
 Top Holdings:
-  - Repo (Unspecified, Repo): 10.22%
-  - Aster DM Healthcare Ltd (Healthcare, Equity): 3.83%
-  - Firstsource Solutions Ltd (Industrials, Equity): 3.31%
-  - Bank Of Baroda (Financial, Equity): 3.16%
-  - Gabriel India Ltd (Consumer Discretionary, Equity): 3%
-  - Eris Lifesciences Ltd (Healthcare, Equity): 2.33%
-  - Krishna Institute Of Medical Sciences Ltd (Healthcare, Equity): 2.24%
-  - Fortis Healthcare Ltd (Healthcare, Equity): 2.24%
-  - eClerx Services Ltd (Technology, Equity): 2.1%
-  - Apar Industries Ltd (Diversified, Equity): 1.96%
+  - Repo (Unspecified, Repo): 9.94%
+  - Firstsource Solutions Ltd (Industrials, Equity): 4.24%
+  - Aster DM Healthcare Ltd (Healthcare, Equity): 3.89%
+  - Gabriel India Ltd (Consumer Discretionary, Equity): 3.34%
+  - eClerx Services Ltd (Technology, Equity): 2.85%
+  - Bank Of Baroda (Financial, Equity): 2.73%
+  - Krishna Institute Of Medical Sciences Ltd (Healthcare, Equity): 2.15%
+  - Eris Lifesciences Ltd (Healthcare, Equity): 2.1%
+  - Fortis Healthcare Ltd (Healthcare, Equity): 1.99%
+  - Indian Bank (Financial, Equity): 1.94%
 
-Fund Returns: 1Y: -0.78%, 3Y: 12.06%, 5Y: 16.56%, Since Inception: 16.3%
+Fund Returns: 1Y: 0.57%, 3Y: 12.14%, 5Y: 16.62%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
 Rank Within Category: 1Y: 44%, 3Y: 34%, 5Y: 18%

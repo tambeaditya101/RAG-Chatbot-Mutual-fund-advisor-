@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.2%
 Exit Load: Exit load of 1%, if redeemed within 15 days.
-NAV: 50.0325 (as of 25-Aug-2026)
+NAV: 49.9008 (as of 26-Aug-2026)
 AUM: ₹11197.0455 crores
 Benchmark: Domestic Price of Gold
 Benchmark Name: Domestic Price of Gold
@@ -45,10 +45,10 @@ Registrar: CAMS
 RTA Name: Cams
 
 Top Holdings:
-  - HDFC Gold ETF (Unspecified, Mutual Fund): 99.99%
-  - Repo (Unspecified, Repo): 0.15%
-  - Net Payables (Unspecified, Net Payables): -0.14%
+  - HDFC Gold ETF (Unspecified, Mutual Fund): 100.05%
+  - Repo (Unspecified, Repo): 0.04%
+  - Net Payables (Unspecified, Net Payables): -0.09%
 
-Fund Returns: 1Y: 58.77%, 3Y: 38.3%, 5Y: 26.42%, Since Inception: 10.83%
+Fund Returns: 1Y: 57.78%, 3Y: 38.14%, 5Y: 26.5%, Since Inception: 10.83%
 Category Average: 1Y: 76.00068826008322%, 3Y: 34.06922462588724%, 5Y: 20.95384843351483%
-Rank Within Category: 1Y: 7%, 3Y: 7%, 5Y: 5%
+Rank Within Category: 1Y: 9%, 3Y: 8%, 5Y: 5%

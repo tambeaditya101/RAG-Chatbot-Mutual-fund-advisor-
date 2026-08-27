@@ -12,7 +12,7 @@ Launch Date: 10-Dec-2021
 === Key Metrics ===
 Expense Ratio: 0.93%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 20.15 (as of 25-Aug-2026)
+NAV: 20.116 (as of 26-Aug-2026)
 AUM: ₹20582.743 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
@@ -46,17 +46,17 @@ Registrar: Cams
 RTA Name: Cams
 
 Top Holdings:
-  - HDFC Bank Ltd (Financial, Equity): 3.95%
-  - ICICI Bank Ltd (Financial, Equity): 3.67%
-  - Axis Bank Ltd (Financial, Equity): 2.59%
-  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.53%
-  - Bharti Airtel Ltd (Technology, Equity): 2.11%
-  - Britannia Industries Ltd (Consumer Staples, Equity): 2.11%
-  - NTPC Ltd (Energy & Utilities, Equity): 1.83%
-  - Larsen & Toubro Ltd (Industrials, Equity): 1.72%
-  - Zomato Ltd (Technology, Equity): 1.7%
-  - State Bank of India (Financial, Equity): 1.68%
+  - ICICI Bank Ltd (Financial, Equity): 3.77%
+  - HDFC Bank Ltd (Financial, Equity): 3.63%
+  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.51%
+  - Axis Bank Ltd (Financial, Equity): 2.32%
+  - Bharti Airtel Ltd (Technology, Equity): 2.2%
+  - Britannia Industries Ltd (Consumer Staples, Equity): 2.18%
+  - Zomato Ltd (Technology, Equity): 1.91%
+  - NTPC Ltd (Energy & Utilities, Equity): 1.75%
+  - State Bank of India (Financial, Equity): 1.65%
+  - Larsen & Toubro Ltd (Industrials, Equity): 1.6%
 
-Fund Returns: 1Y: 1.66%, 3Y: 13.61%
+Fund Returns: 1Y: 2.93%, 3Y: 13.53%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
 Rank Within Category: 1Y: 35%, 3Y: 19%
