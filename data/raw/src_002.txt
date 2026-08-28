@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 237.356 (as of 26-Aug-2026)
+NAV: 236.919 (as of 27-Aug-2026)
 AUM: ₹105142.6943 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Glenmark Pharmaceuticals Ltd (Healthcare, Equity): 2.85%
   - Coforge Ltd (Technology, Equity): 2.56%
 
-Fund Returns: 1Y: 12.11%, 3Y: 19.66%, 5Y: 21.21%, Since Inception: 19.3%
+Fund Returns: 1Y: 11.91%, 3Y: 19.57%, 5Y: 20.96%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
-Rank Within Category: 1Y: 16%, 3Y: 14%, 5Y: 3%
+Rank Within Category: 1Y: 20%, 3Y: 14%, 5Y: 3%
