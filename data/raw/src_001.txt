@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 1.02%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1237.344 (as of 01-Sep-2026)
+NAV: 1231.045 (as of 02-Sep-2026)
 AUM: ₹40197.8895 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Axis Bank Ltd (Financial, Equity): 3.28%
   - Repo (Unspecified, Repo): 3.08%
 
-Fund Returns: 1Y: 1.8%, 3Y: 10.84%, 5Y: 12.13%, Since Inception: 13.08%
+Fund Returns: 1Y: 1.42%, 3Y: 10.64%, 5Y: 11.88%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 48%, 3Y: 42%, 5Y: 15%
+Rank Within Category: 1Y: 47%, 3Y: 43%, 5Y: 14%

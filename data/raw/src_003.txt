@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 160.972 (as of 01-Sep-2026)
+NAV: 160.418 (as of 02-Sep-2026)
 AUM: ₹41679.0037 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Fortis Healthcare Ltd (Healthcare, Equity): 1.99%
   - Indian Bank (Financial, Equity): 1.94%
 
-Fund Returns: 1Y: 0.25%, 3Y: 11.33%, 5Y: 16.12%, Since Inception: 16.3%
+Fund Returns: 1Y: -0.96%, 3Y: 11.19%, 5Y: 15.81%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
 Rank Within Category: 1Y: 44%, 3Y: 34%, 5Y: 17%
