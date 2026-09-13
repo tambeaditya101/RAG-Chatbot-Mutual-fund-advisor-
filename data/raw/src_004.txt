@@ -46,17 +46,17 @@ Registrar: Cams
 RTA Name: Cams
 
 Top Holdings:
-  - ICICI Bank Ltd (Financial, Equity): 3.77%
-  - HDFC Bank Ltd (Financial, Equity): 3.63%
-  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.51%
-  - Axis Bank Ltd (Financial, Equity): 2.32%
-  - Bharti Airtel Ltd (Technology, Equity): 2.2%
-  - Britannia Industries Ltd (Consumer Staples, Equity): 2.18%
-  - Zomato Ltd (Technology, Equity): 1.91%
-  - NTPC Ltd (Energy & Utilities, Equity): 1.75%
-  - State Bank of India (Financial, Equity): 1.65%
-  - Larsen & Toubro Ltd (Industrials, Equity): 1.6%
+  - ICICI Bank Ltd (Financial, Equity): 3.80238581%
+  - HDFC Bank Ltd (Financial, Equity): 3.4335569%
+  - Axis Bank Ltd (Financial, Equity): 2.44586447%
+  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.44278929%
+  - Britannia Industries Ltd (Consumer Staples, Equity): 2.10747606%
+  - Zomato Ltd (Technology, Equity): 2.06560652%
+  - Bharti Airtel Ltd (Technology, Equity): 2.01818082%
+  - State Bank of India (Financial, Equity): 1.84801878%
+  - NTPC Ltd (Energy & Utilities, Equity): 1.64895965%
+  - Kotak Mahindra Bank Ltd (Financial, Equity): 1.52330793%
 
 Fund Returns: 1Y: -1.51%, 3Y: 10.92%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
-Rank Within Category: 1Y: 35%, 3Y: 19%
+Rank Within Category: 1Y: 36%, 3Y: 19%
