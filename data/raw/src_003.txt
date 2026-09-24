@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.77%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 160.553 (as of 22-Sep-2026)
+NAV: 161.382 (as of 23-Sep-2026)
 AUM: ₹41890.8613 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Eris Lifesciences Ltd (Healthcare, Equity): 2%
   - Apar Industries Ltd (Diversified, Equity): 1.9%
 
-Fund Returns: 1Y: -2.59%, 3Y: 11.33%, 5Y: 14.92%, Since Inception: 16.3%
+Fund Returns: 1Y: -1.94%, 3Y: 11.51%, 5Y: 14.89%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
 Rank Within Category: 1Y: 46%, 3Y: 34%, 5Y: 18%

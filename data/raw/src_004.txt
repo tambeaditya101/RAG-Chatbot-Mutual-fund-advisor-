@@ -12,7 +12,7 @@ Launch Date: 10-Dec-2021
 === Key Metrics ===
 Expense Ratio: 0.93%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 19.592 (as of 22-Sep-2026)
+NAV: 19.715 (as of 23-Sep-2026)
 AUM: ₹20649.14092625 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - NTPC Ltd (Energy & Utilities, Equity): 1.64895965%
   - Kotak Mahindra Bank Ltd (Financial, Equity): 1.52330793%
 
-Fund Returns: 1Y: -2.46%, 3Y: 11.98%
+Fund Returns: 1Y: -1.71%, 3Y: 12.2%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
 Rank Within Category: 1Y: 35%, 3Y: 19%
