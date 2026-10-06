@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 1.04%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1151.92 (as of 01-Oct-2026)
+NAV: 1157.04 (as of 05-Oct-2026)
 AUM: ₹39933.3663 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Bajaj Finserv Ltd (Financial, Equity): 3.33%
   - Bajaj Auto Ltd (Consumer Discretionary, Equity): 2.93%
 
-Fund Returns: 1Y: -6.15%, 3Y: 7.33%, 5Y: 9.55%, Since Inception: 13.08%
+Fund Returns: 1Y: -5.87%, 3Y: 7.87%, 5Y: 9.21%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
 Rank Within Category: 1Y: 55%, 3Y: 45%, 5Y: 20%
