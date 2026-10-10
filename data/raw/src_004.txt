@@ -12,13 +12,13 @@ Launch Date: 10-Dec-2021
 === Key Metrics ===
 Expense Ratio: 0.94%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 18.58 (as of 08-Oct-2026)
-AUM: ₹20649.14092625 crores
+NAV: 18.732 (as of 09-Oct-2026)
+AUM: ₹19490.0051 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
 Riskometer: Very High
 Groww Rating: 2/5
-Portfolio Turnover: 46%
+Portfolio Turnover: 49%
 Stamp Duty: 0.005% (from July 1st, 2020)
 
 === Investment Details ===
@@ -46,17 +46,17 @@ Registrar: Cams
 RTA Name: Cams
 
 Top Holdings:
-  - ICICI Bank Ltd (Financial, Equity): 3.80238581%
-  - HDFC Bank Ltd (Financial, Equity): 3.4335569%
-  - Axis Bank Ltd (Financial, Equity): 2.44586447%
-  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.44278929%
-  - Britannia Industries Ltd (Consumer Staples, Equity): 2.10747606%
-  - Zomato Ltd (Technology, Equity): 2.06560652%
-  - Bharti Airtel Ltd (Technology, Equity): 2.01818082%
-  - State Bank of India (Financial, Equity): 1.84801878%
-  - NTPC Ltd (Energy & Utilities, Equity): 1.64895965%
-  - Kotak Mahindra Bank Ltd (Financial, Equity): 1.52330793%
+  - HDFC Bank Ltd (Financial, Equity): 3.93%
+  - ICICI Bank Ltd (Financial, Equity): 3.66%
+  - Axis Bank Ltd (Financial, Equity): 2.44%
+  - Reliance Industries Ltd (Energy & Utilities, Equity): 2.41%
+  - Bharti Airtel Ltd (Technology, Equity): 2.13%
+  - Zomato Ltd (Technology, Equity): 2.13%
+  - Britannia Industries Ltd (Consumer Staples, Equity): 2.05%
+  - Kotak Mahindra Bank Ltd (Financial, Equity): 1.92%
+  - State Bank of India (Financial, Equity): 1.77%
+  - NTPC Ltd (Energy & Utilities, Equity): 1.72%
 
-Fund Returns: 1Y: -6.28%, 3Y: 9.64%
+Fund Returns: 1Y: -5.95%, 3Y: 10.35%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
 Rank Within Category: 1Y: 36%, 3Y: 20%
