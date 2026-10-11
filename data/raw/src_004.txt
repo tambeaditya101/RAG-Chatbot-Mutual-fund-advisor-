@@ -10,7 +10,7 @@ Scheme Type: Growth
 Launch Date: 10-Dec-2021
 
 === Key Metrics ===
-Expense Ratio: 0.94%
+Expense Ratio: 0.96%
 Exit Load: Exit load of 1% if redeemed within 1 year.
 NAV: 18.732 (as of 09-Oct-2026)
 AUM: ₹19490.0051 crores
