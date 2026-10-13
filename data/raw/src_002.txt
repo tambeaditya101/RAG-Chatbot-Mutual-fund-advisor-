@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.75%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 219.816 (as of 09-Oct-2026)
+NAV: 219.3 (as of 12-Oct-2026)
 AUM: ₹101856.0604 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Coforge Ltd (Technology, Equity): 2.68%
   - Fortis Healthcare Ltd (Healthcare, Equity): 2.4%
 
-Fund Returns: 1Y: 1.51%, 3Y: 15.87%, 5Y: 16.9%, Since Inception: 19.3%
+Fund Returns: 1Y: 0.9%, 3Y: 15.08%, 5Y: 16.55%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
 Rank Within Category: 1Y: 23%, 3Y: 16%, 5Y: 4%
