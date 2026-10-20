@@ -12,8 +12,8 @@ Launch Date: 10-Dec-2021
 === Key Metrics ===
 Expense Ratio: 0.96%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 18.958 (as of 16-Oct-2026)
-AUM: ₹19490.0051 crores
+NAV: 18.766 (as of 19-Oct-2026)
+AUM: ₹19490.01 crores
 Benchmark: Nifty 500 Multicap 50:25:25 TRI
 Benchmark Name: Nifty 500 Multicap 50:25:25 Total Return Index
 Riskometer: Very High
@@ -57,6 +57,6 @@ Top Holdings:
   - State Bank of India (Financial, Equity): 1.77%
   - NTPC Ltd (Energy & Utilities, Equity): 1.72%
 
-Fund Returns: 1Y: -6.06%, 3Y: 10.06%
+Fund Returns: 1Y: -6.93%, 3Y: 9.77%
 Category Average: 1Y: 0.9335697299333917%, 3Y: 18.54456924964367%
 Rank Within Category: 1Y: 36%, 3Y: 20%
