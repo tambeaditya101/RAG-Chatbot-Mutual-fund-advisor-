@@ -13,7 +13,7 @@ Launch Date: 01-Jan-2013
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
 NAV: 219.784 (as of 19-Oct-2026)
-AUM: ₹101856.0604 crores
+AUM: ₹101856.06 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
 Riskometer: Moderately High
@@ -59,4 +59,4 @@ Top Holdings:
 
 Fund Returns: 1Y: 0.82%, 3Y: 15.16%, 5Y: 16.52%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
-Rank Within Category: 1Y: 21%, 3Y: 14%, 5Y: 3%
+Rank Within Category: 1Y: 19%, 3Y: 12%, 5Y: 3%
