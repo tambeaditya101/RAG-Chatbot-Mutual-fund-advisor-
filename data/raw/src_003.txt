@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.79%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 153.742 (as of 19-Oct-2026)
+NAV: 151.928 (as of 21-Oct-2026)
 AUM: ₹40800.81 crores
 Benchmark: BSE 250 SmallCap TRI
 Benchmark Name: BSE 250 SmallCap Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Indian Bank (Financial, Equity): 1.91%
   - Pearl Global Industries Ltd (Consumer Discretionary, Equity): 1.9%
 
-Fund Returns: 1Y: -4.46%, 3Y: 8.76%, 5Y: 12.85%, Since Inception: 16.3%
+Fund Returns: 1Y: -6.41%, 3Y: 8.52%, 5Y: 13.21%, Since Inception: 16.3%
 Category Average: 1Y: -6.287113895986091%, 3Y: 19.69509809136353%, 5Y: 22.634728896983034%
 Rank Within Category: 1Y: 46%, 3Y: 34%, 5Y: 17%
