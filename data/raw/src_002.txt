@@ -12,8 +12,8 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.74%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 227.102 (as of 09-Nov-2026)
-AUM: ₹101856.06 crores
+NAV: 229.552 (as of 11-Nov-2026)
+AUM: ₹100687.07 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
 Riskometer: Moderately High
@@ -46,17 +46,17 @@ Registrar: CAMS
 RTA Name: Cams
 
 Top Holdings:
-  - Repo (Unspecified, Repo): 8.37%
-  - The Federal Bank Ltd (Financial, Equity): 3.98%
-  - AU Small Finance Bank Ltd (Financial, Equity): 3.94%
-  - Max Financial Services Ltd (Financial, Equity): 3.52%
-  - Ipca Laboratories Ltd (Healthcare, Equity): 3.43%
-  - Glenmark Pharmaceuticals Ltd (Healthcare, Equity): 3.07%
-  - Balkrishna Industries Ltd (Consumer Discretionary, Equity): 2.98%
-  - Indian Bank (Financial, Equity): 2.92%
-  - Coforge Ltd (Technology, Equity): 2.68%
-  - Fortis Healthcare Ltd (Healthcare, Equity): 2.4%
+  - Repo (Unspecified, Repo): 7.02%
+  - The Federal Bank Ltd (Financial, Equity): 4.31%
+  - Ipca Laboratories Ltd (Healthcare, Equity): 3.47%
+  - AU Small Finance Bank Ltd (Financial, Equity): 3.47%
+  - Indian Bank (Financial, Equity): 3.17%
+  - Coforge Ltd (Technology, Equity): 3.17%
+  - Max Financial Services Ltd (Financial, Equity): 3.11%
+  - Glenmark Pharmaceuticals Ltd (Healthcare, Equity): 3.06%
+  - Balkrishna Industries Ltd (Consumer Discretionary, Equity): 2.95%
+  - Marico Ltd (Consumer Staples, Equity): 2.54%
 
-Fund Returns: 1Y: 2.48%, 3Y: 16.04%, 5Y: 17.25%, Since Inception: 19.3%
+Fund Returns: 1Y: 3.12%, 3Y: 16.27%, 5Y: 17.65%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
 Rank Within Category: 1Y: 28%, 3Y: 16%, 5Y: 4%
