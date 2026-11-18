@@ -10,9 +10,9 @@ Scheme Type: Growth
 Launch Date: 01-Jan-2013
 
 === Key Metrics ===
-Expense Ratio: 1.0%
+Expense Ratio: 0.99%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1272.533 (as of 16-Nov-2026)
+NAV: 1278.826 (as of 17-Nov-2026)
 AUM: ₹37466.3 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Reliance Industries Ltd (Energy & Utilities, Equity): 3.12%
   - Bajaj Finserv Ltd (Financial, Equity): 2.93%
 
-Fund Returns: 1Y: 0.31%, 3Y: 10.29%, 5Y: 11.18%, Since Inception: 13.08%
+Fund Returns: 1Y: 0.39%, 3Y: 10.57%, 5Y: 11.41%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 56%, 3Y: 50%, 5Y: 17%
+Rank Within Category: 1Y: 55%, 3Y: 50%, 5Y: 8%
