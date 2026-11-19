@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.73%
 Exit Load: Exit load of 1% if redeemed within 1 year.
-NAV: 230.556 (as of 17-Nov-2026)
+NAV: 228.631 (as of 18-Nov-2026)
 AUM: ₹100687.07 crores
 Benchmark: NIFTY Midcap 150 TRI
 Benchmark Name: NIFTY Midcap 150 Total Return Index
@@ -57,6 +57,6 @@ Top Holdings:
   - Balkrishna Industries Ltd (Consumer Discretionary, Equity): 2.95%
   - Marico Ltd (Consumer Staples, Equity): 2.54%
 
-Fund Returns: 1Y: 1.98%, 3Y: 15.5%, 5Y: 17.91%, Since Inception: 19.3%
+Fund Returns: 1Y: 1.71%, 3Y: 15.17%, 5Y: 18.1%, Since Inception: 19.3%
 Category Average: 1Y: 1.9589569430918827%, 3Y: 21.621655585469462%, 5Y: 21.52750809939988%
 Rank Within Category: 1Y: 29%, 3Y: 17%, 5Y: 4%
