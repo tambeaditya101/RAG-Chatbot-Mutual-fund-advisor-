@@ -12,7 +12,7 @@ Launch Date: 01-Jan-2013
 === Key Metrics ===
 Expense Ratio: 0.99%
 Exit Load: Exit load of 1% if redeemed within 1 year
-NAV: 1267.491 (as of 18-Nov-2026)
+NAV: 1282.964 (as of 19-Nov-2026)
 AUM: ₹37466.3 crores
 Benchmark: NIFTY 100 TRI
 Benchmark Name: NIFTY 100 Total Return Index
@@ -58,6 +58,6 @@ Top Holdings:
   - Reliance Industries Ltd (Energy & Utilities, Equity): 3.12%
   - Bajaj Finserv Ltd (Financial, Equity): 2.93%
 
-Fund Returns: 1Y: -0.22%, 3Y: 10.23%, 5Y: 11.38%, Since Inception: 13.08%
+Fund Returns: 1Y: 0.83%, 3Y: 10.67%, 5Y: 11.64%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 55%, 3Y: 50%, 5Y: 8%
+Rank Within Category: 1Y: 57%, 3Y: 50%, 5Y: 8%
