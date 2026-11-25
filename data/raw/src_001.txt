@@ -10,7 +10,7 @@ Scheme Type: Growth
 Launch Date: 01-Jan-2013
 
 === Key Metrics ===
-Expense Ratio: 0.99%
+Expense Ratio: 0.98%
 Exit Load: Exit load of 1% if redeemed within 1 year
 NAV: 1277.914 (as of 23-Nov-2026)
 AUM: ₹37466.3 crores
@@ -60,4 +60,4 @@ Top Holdings:
 
 Fund Returns: 1Y: 0.53%, 3Y: 10.42%, 5Y: 11.86%, Since Inception: 13.08%
 Category Average: 1Y: 7.147399676288311%, 3Y: 15.067319511020838%, 5Y: 14.963175625273163%
-Rank Within Category: 1Y: 56%, 3Y: 50%, 5Y: 8%
+Rank Within Category: 1Y: 55%, 3Y: 50%, 5Y: 8%
